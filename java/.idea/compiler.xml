@@ -14,6 +14,9 @@
       <module name="hello-world" target="25" />
       <module name="hello-world.main" target="25" />
       <module name="hello-world.test" target="25" />
+      <module name="jedliks-toy-car" target="21" />
+      <module name="jedliks-toy-car.main" target="21" />
+      <module name="jedliks-toy-car.test" target="21" />
       <module name="karls-languages" target="21" />
       <module name="karls-languages.main" target="21" />
       <module name="karls-languages.test" target="21" />
