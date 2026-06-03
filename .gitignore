@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+build/
+bin/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Gradle local config
+gradle-app.setting
+.gradletasknamecache

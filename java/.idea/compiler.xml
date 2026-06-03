@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="annalyns-infiltration" target="25" />
+      <module name="annalyns-infiltration.main" target="25" />
+      <module name="annalyns-infiltration.test" target="25" />
+      <module name="bird-watcher" target="25" />
+      <module name="bird-watcher.main" target="25" />
+      <module name="bird-watcher.test" target="25" />
+      <module name="calculator-conundrum" target="21" />
+      <module name="calculator-conundrum.main" target="21" />
+      <module name="calculator-conundrum.test" target="21" />
+      <module name="hello-world" target="25" />
+      <module name="hello-world.main" target="25" />
+      <module name="hello-world.test" target="25" />
+      <module name="karls-languages" target="21" />
+      <module name="karls-languages.main" target="21" />
+      <module name="karls-languages.test" target="21" />
+      <module name="lasagna" target="25" />
+      <module name="lasagna.main" target="25" />
+      <module name="lasagna.test" target="25" />
+      <module name="squeaky-clean" target="21" />
+      <module name="squeaky-clean.main" target="21" />
+      <module name="squeaky-clean.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
