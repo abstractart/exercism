@@ -11,6 +11,9 @@
       <module name="calculator-conundrum" target="21" />
       <module name="calculator-conundrum.main" target="21" />
       <module name="calculator-conundrum.test" target="21" />
+      <module name="cars-assemble" target="21" />
+      <module name="cars-assemble.main" target="21" />
+      <module name="cars-assemble.test" target="21" />
       <module name="hello-world" target="25" />
       <module name="hello-world.main" target="25" />
       <module name="hello-world.test" target="25" />
