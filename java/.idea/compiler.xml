@@ -14,6 +14,9 @@
       <module name="cars-assemble" target="21" />
       <module name="cars-assemble.main" target="21" />
       <module name="cars-assemble.test" target="21" />
+      <module name="football-match-reports" target="21" />
+      <module name="football-match-reports.main" target="21" />
+      <module name="football-match-reports.test" target="21" />
       <module name="hello-world" target="25" />
       <module name="hello-world.main" target="25" />
       <module name="hello-world.test" target="25" />
@@ -26,15 +29,27 @@
       <module name="lasagna" target="25" />
       <module name="lasagna.main" target="25" />
       <module name="lasagna.test" target="25" />
+      <module name="log-levels" target="21" />
+      <module name="log-levels.main" target="21" />
+      <module name="log-levels.test" target="21" />
+      <module name="logs-logs-logs" target="21" />
+      <module name="logs-logs-logs.main" target="21" />
+      <module name="logs-logs-logs.test" target="21" />
       <module name="need-for-speed" target="21" />
       <module name="need-for-speed.main" target="21" />
       <module name="need-for-speed.test" target="21" />
       <module name="remote-control-competition" target="21" />
       <module name="remote-control-competition.main" target="21" />
       <module name="remote-control-competition.test" target="21" />
+      <module name="salary-calculator" target="21" />
+      <module name="salary-calculator.main" target="21" />
+      <module name="salary-calculator.test" target="21" />
       <module name="squeaky-clean" target="21" />
       <module name="squeaky-clean.main" target="21" />
       <module name="squeaky-clean.test" target="21" />
+      <module name="wizards-and-warriors" target="21" />
+      <module name="wizards-and-warriors.main" target="21" />
+      <module name="wizards-and-warriors.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
