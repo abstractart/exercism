@@ -4,10 +4,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/wizards-and-warriors-2" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/international-calling-connoisseur" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/wizards-and-warriors-2" />
+            <option value="$PROJECT_DIR$/international-calling-connoisseur" />
           </set>
         </option>
       </GradleProjectSettings>
