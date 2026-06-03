@@ -8,9 +8,15 @@
       <module name="bird-watcher" target="25" />
       <module name="bird-watcher.main" target="25" />
       <module name="bird-watcher.test" target="25" />
+      <module name="booking-up-for-beauty" target="21" />
+      <module name="booking-up-for-beauty.main" target="21" />
+      <module name="booking-up-for-beauty.test" target="21" />
       <module name="calculator-conundrum" target="21" />
       <module name="calculator-conundrum.main" target="21" />
       <module name="calculator-conundrum.test" target="21" />
+      <module name="captains-log" target="21" />
+      <module name="captains-log.main" target="21" />
+      <module name="captains-log.test" target="21" />
       <module name="cars-assemble" target="21" />
       <module name="cars-assemble.main" target="21" />
       <module name="cars-assemble.test" target="21" />
