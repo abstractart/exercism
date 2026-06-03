@@ -26,6 +26,9 @@
       <module name="need-for-speed" target="21" />
       <module name="need-for-speed.main" target="21" />
       <module name="need-for-speed.test" target="21" />
+      <module name="remote-control-competition" target="21" />
+      <module name="remote-control-competition.main" target="21" />
+      <module name="remote-control-competition.test" target="21" />
       <module name="squeaky-clean" target="21" />
       <module name="squeaky-clean.main" target="21" />
       <module name="squeaky-clean.test" target="21" />
