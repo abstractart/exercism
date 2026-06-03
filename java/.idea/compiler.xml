@@ -23,6 +23,9 @@
       <module name="lasagna" target="25" />
       <module name="lasagna.main" target="25" />
       <module name="lasagna.test" target="25" />
+      <module name="need-for-speed" target="21" />
+      <module name="need-for-speed.main" target="21" />
+      <module name="need-for-speed.test" target="21" />
       <module name="squeaky-clean" target="21" />
       <module name="squeaky-clean.main" target="21" />
       <module name="squeaky-clean.test" target="21" />

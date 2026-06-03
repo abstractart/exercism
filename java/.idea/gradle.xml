@@ -3,10 +3,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/need-for-speed" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/remote-control-competition" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/need-for-speed" />
+            <option value="$PROJECT_DIR$/remote-control-competition" />
           </set>
         </option>
       </GradleProjectSettings>
